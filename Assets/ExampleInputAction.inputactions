@@ -1,0 +1,34 @@
+{
+    "name": "ExampleInputAction",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "cdc70c81-ae4c-40d9-8b20-fdc7637146f7",
+            "actions": [
+                {
+                    "name": "MoveX",
+                    "type": "Value",
+                    "id": "cd2988c3-7601-4e5e-beb5-86312e407a3a",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f9e80331-7d62-4c13-9a61-2539e9b756d9",
+                    "path": "<Gamepad>/dpad/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MoveX",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
