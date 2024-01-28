@@ -17,4 +17,8 @@ Actual result: D-Pad gets stuck and cubes move after the D-Pad and South button 
 
 # Vote here to Fix the Bug.
 
+Issue ID
+
+UUM-53144
+
 https://issuetracker-mig.prd.it.unity3d.com/issues/android-gamepad-input-gets-stuck-if-both-the-d-pad-and-source-button-is-pressed-at-the-same-time
